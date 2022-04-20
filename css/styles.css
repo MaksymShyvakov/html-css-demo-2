@@ -1,0 +1,36 @@
+.link {
+    text-decoration: none;
+}
+
+.link {
+    list-style: none;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* ============= COMPONENTS ============= */
+.modal-bnt {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    cursor: pointer;
+    /* color: #ffffff; */
+}
+
+.modal-bnt:hover,
+.modal-bnt:focus {
+    background-color: #ff6c00;
+    color: #ffffff;
+}
+
+.social-links-link {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: 0.2em;
+}
